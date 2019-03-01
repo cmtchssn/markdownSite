@@ -1,5 +1,6 @@
 ## Re-Sounding Wild  
 [Take me there](./posts/re-soundingWild.md)  
+[![rwImg](./images/re-soundingWild.md)](./posts/re-soundingWild.md)
 
 ## Welcome to GitHub Pages
 
