@@ -1,5 +1,5 @@
 ## Re-Sounding Wild  
-[Take me there](./re-soundingWild.md)  
+[Take me there](./posts/re-soundingWild.md)  
 
 ## Welcome to GitHub Pages
 
